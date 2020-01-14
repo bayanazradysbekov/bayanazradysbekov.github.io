@@ -1,0 +1,13 @@
+li{
+    color: red;
+    text-align: center;
+}
+
+.chapter{
+    color: rgba(255, 20, 147, 1);
+}
+
+#begin{
+    color: orange;
+    font-weight: bold;
+}
